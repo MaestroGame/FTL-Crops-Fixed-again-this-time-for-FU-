@@ -1,7 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path" : "/uiConfig",
-		"value" : "/interface/chests/cdx/chest<slots>.config"
-	}
-]

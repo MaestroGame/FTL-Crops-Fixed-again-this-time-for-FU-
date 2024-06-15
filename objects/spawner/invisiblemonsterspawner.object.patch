@@ -1,6 +1,0 @@
-[
-	[
-		{"op": "test","path": "/spawner/monsterLevel"},
-		{"op": "remove","path": "/spawner/monsterLevel"}
-	]
-]

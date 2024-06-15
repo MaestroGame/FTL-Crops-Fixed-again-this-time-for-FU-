@@ -1,7 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/interactData/config",
-		"value": "/interface/windowconfig/craftingold.config"
-	}
-]

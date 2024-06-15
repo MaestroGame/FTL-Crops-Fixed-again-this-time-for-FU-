@@ -1,6 +1,0 @@
-[
-  [
-    {"op":"test","path":"/twoHanded","inverse":true},
-    {"op": "add","path": "/twoHanded","value": false}
-  ]
-]
