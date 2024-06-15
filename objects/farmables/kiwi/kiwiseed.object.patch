@@ -1,14 +1,12 @@
 [
-//  [
-//    { "op": "test", "path": "/learnBlueprintsOnPickup", "inverse" : true },
-//    { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
-//  ],
- // [
- //   { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "fusnowberryseed" }
-//  ]
-{
-"op":"add",
-"path":"/slimepersonDescription",
-"value":"Normally, kiwifruit grows on vines, rather than on the ground. It seems this variety is an exception."
-}
-]
+    {
+        "op":"replace",
+        "path":"/stages/0/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/1/duration",
+        "value":[10,20]
+    }
+] 

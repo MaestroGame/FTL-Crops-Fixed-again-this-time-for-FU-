@@ -1,0 +1,17 @@
+[
+    {
+        "op":"replace",
+        "path":"/stages/0/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/1/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/1/duration",
+        "value":[10,20]
+    }
+] 

@@ -1,19 +1,17 @@
 [
-//  [
-//    { "op": "test", "path": "/learnBlueprintsOnPickup", "inverse" : true },
-//    { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
-//  ],
-//  [
-//    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "whitespine" },
-//    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "ighantseed" }
-//  ],
-  [
-	{
-		"op" : "add",
-		"path" : "/beeLikeness",
-		"value" : {
-			"squash" : 1
-		}
-	}
-  ]
-]
+    {
+        "op":"replace",
+        "path":"/stages/0/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/1/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/2/duration",
+        "value":[10,20]
+    }
+]  

@@ -1,4 +1,0 @@
-[
-  {"op":"replace","path":"/hatchTime","value": 7000 },
-  {"op":"replace","path":"/forceHatchTime","value": 5000 }
-]

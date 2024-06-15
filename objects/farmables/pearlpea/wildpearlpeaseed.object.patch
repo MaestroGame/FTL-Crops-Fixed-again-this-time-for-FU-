@@ -1,14 +1,17 @@
 [
-//  [
-//    { "op": "test", "path": "/learnBlueprintsOnPickup", "inverse" : true },
-//    { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
-//  ],
-//  [
-//    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "littlegoodberryseed" }
-//  ]
-{
-"op":"add",
-"path":"/slimepersonDescription",
-"value":"I can digest Pearlpeas, but it takes a while. They end up floating in me far longer than I'd like."
-}
-]
+    {
+        "op":"replace",
+        "path":"/stages/0/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/1/duration",
+        "value":[10,20]
+    },
+    {
+        "op":"replace",
+        "path":"/stages/2/duration",
+        "value":[10,20]
+    }
+]   
