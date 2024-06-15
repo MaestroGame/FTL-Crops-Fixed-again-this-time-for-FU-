@@ -4,7 +4,7 @@
 
 The previous modder of [FTL Crops (Fixed)](https://steamcommunity.com/sharedfiles/filedetails/?id=910447187) said that they were "*in the process of adding FU plants in (it's taking a while, lol, so many plants)*". It has been three years now since their publication of this mod, and, seeing that even the base plants weren't implemented correctly, I went and fixed FU and vanilla crops myself in one sitting.
 
-Sadly, the logic here isn't automated, all plants are patched with the same code over and over again in different folders, and the previous mod version were littered with missing or mismatched files. I was getting annoyed by other modders, who said they wouldn't update their "FTL Crops"-versions to support FU-plants, so I spent around two hours proofreading other peoples work to fix things this time (but not for long, since it looks like that in the last three years FU added some more plants and no one bothered with updates).
+Sadly, the logic here isn't automated, all plants are patched with the same code over and over again in different folders, and the previous mod version were littered with missing or mismatched files. I was getting annoyed by other modders, who said they wouldn't update their "FTL Crops"-versions to support FU-plants, so I spent around two hours proofreading other peoples work to fix things this time (but not for long, since it looks like that in the last three years FU added some more plants and no one bothered with updates, so this one's gonna get outdated too sooner or later).
 
 Currently I have no more plans to update this mod if FU-creators decide to add more crops, and I don't have plans or any idea how to make this via normal code and not that weird folder-switcheroo.
 
