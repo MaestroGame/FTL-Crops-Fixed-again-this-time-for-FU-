@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Stacked natural granite bricks.\n^green;Extractable^reset;."
-    }
-]

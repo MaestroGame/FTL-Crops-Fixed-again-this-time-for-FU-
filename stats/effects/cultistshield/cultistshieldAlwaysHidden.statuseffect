@@ -1,9 +1,0 @@
-{
-	"name" : "cultistshieldAlwaysHidden",
-	"effectConfig" : {},
-	"defaultDuration" : 10,
-	"scripts" : [
-		"cultistshield.lua"
-	],
-	"scriptDelta" : 1
-}

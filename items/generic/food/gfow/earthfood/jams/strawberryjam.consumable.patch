@@ -1,9 +1,0 @@
-[{
-  "op": "add",
-  "path": "/effects",
-  "value": [
-    [
-    { "effect" : "fruit_food" }
-  ]
-  ]
-}]

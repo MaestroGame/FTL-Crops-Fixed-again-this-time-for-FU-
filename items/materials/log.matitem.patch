@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "A wooden log. Good for building simple structures.\n^green;Extractable^reset;."
-    }
-]

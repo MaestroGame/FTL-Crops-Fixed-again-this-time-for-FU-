@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 1 }
-  ],
-  "output" : { "item" : "furawornatewall", "count" : 20 },
-  "groups" : [ "craftingfurniture", "materials", "all" ]
-}

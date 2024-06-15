@@ -1,9 +1,0 @@
-{
-  "input" : [
-{ "item" : "greenslime", "count" : 2 },
-{ "item" : "slimegoo", "count" : 2 }
-  ],
-  "output" : { "item" : "slimenpchide" },
-  "duration" : 1.5,
-  "groups"  : [ "slimecentrifuge", "objects", "all" ]
-}

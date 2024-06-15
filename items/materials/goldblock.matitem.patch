@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "A whole block of solid gold.\n^green;Extractable^reset;."
-    }
-]

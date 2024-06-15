@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/animatedParts/stateTypes/firing/states/fire/properties/immediateSound",
-    "value": "/sfx/tools/success1.ogg"
-  }
-]

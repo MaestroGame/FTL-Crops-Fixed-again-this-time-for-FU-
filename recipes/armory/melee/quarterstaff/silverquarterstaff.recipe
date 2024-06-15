@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "silverbar", "count" : 6 },
-    { "item" : "tungstenbar", "count" : 4 }
-  ],
-  "output" : { "item" : "silverquarterstaff", "count" : 1 },
-  "groups" : [ "armory2", "melee2", "all" ]
-}

@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold/Radiation, Mild Poison/Proto"
-  }
-]

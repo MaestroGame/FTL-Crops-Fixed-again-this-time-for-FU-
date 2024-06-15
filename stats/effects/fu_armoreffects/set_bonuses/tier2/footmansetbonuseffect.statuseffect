@@ -1,6 +1,0 @@
-{
-	"name" : "footmansetbonuseffect",
-	"defaultDuration" : 15,
-	"scripts":["footmansetbonuseffect.lua"],
-	"scriptDelta": 60
-}

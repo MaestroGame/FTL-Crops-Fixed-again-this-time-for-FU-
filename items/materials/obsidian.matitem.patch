@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Solid obsidian. It is naturally black.\n^green;Extractable^reset;, ^orange;Crushable^reset;, ^red;Smeltable^reset;."
-    }
-]

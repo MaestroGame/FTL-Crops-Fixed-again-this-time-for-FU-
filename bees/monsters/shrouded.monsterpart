@@ -1,7 +1,0 @@
-{
-	"name": "bee_shrouded",
-	"category": "bee_shrouded",
-	"type": "body",
-
-	"frames": {	"body": "shrouded.png"	}
-}

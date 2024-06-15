@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "obsidian", "count" : 5 },
-    { "item" : "silverbar", "count" : 1 }
-  ],
-  "output" : { "item" : "nightarchainfence", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

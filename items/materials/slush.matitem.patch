@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Melting ice makes a thick slush.\n^green;Extractable^reset;."
-    }
-]

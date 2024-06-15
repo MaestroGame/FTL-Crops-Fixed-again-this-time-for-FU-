@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "advancealloy", "count" : 4 },
-    { "item" : "powercore", "count" : 1 }
-  ],
-  "output" : { "item" : "curvedagger", "count" : 1 },
-  "groups" : [ "armory3", "melee", "all" ]
-}

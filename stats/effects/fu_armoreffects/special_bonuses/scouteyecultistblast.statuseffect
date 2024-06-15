@@ -1,9 +1,0 @@
-{
-  "name" : "scouteyecultistblast",
-  "effectConfig" : {},
-  "defaultDuration" : 3,
-
-  "scripts" : [
-    "scouteyecultistblast.lua"
-  ]
-}

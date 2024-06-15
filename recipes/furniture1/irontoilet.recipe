@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "ironbar", "count" : 6 }
-  ],
-  "output" : { "item" : "irontoilet", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

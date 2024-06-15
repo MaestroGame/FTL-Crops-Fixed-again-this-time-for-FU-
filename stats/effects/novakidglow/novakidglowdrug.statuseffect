@@ -1,9 +1,0 @@
-{
-  "name" : "novakidglowdrug",
-  "effectConfig" : {},
-  "defaultDuration" : 120,
-
-  "scripts" : [],
-
-  "animationConfig" : "novakidglow.animation"
-}

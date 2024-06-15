@@ -1,9 +1,0 @@
-{
-	"name" : "darkdisguisesetbonuseffectkhe",
-	"defaultDuration" : 15,
-	"effectConfig":{"statusEffectName":"darkdisguisesetbonuseffectkhe"},
-	"scripts" : [
-		"darkdisguisesetbonuseffectkhe.lua"
-	],
-	"scriptDelta": 60
-}

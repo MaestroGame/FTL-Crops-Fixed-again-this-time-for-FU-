@@ -1,8 +1,0 @@
-{
-    "input" : [
-        { "item" : "ironbar", "count" : 7 },
-        { "item" : "waxchunk", "count" : 6 }
-    ],
-    "output" : { "item" : "fuironornatechandelier", "count" : 1 },
-    "groups" : [ "craftingfurniture", "lights", "all" ]
-}

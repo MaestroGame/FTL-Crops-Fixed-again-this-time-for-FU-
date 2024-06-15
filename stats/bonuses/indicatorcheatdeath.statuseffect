@@ -1,6 +1,0 @@
-{
-	"name" : "fuindicatorcheatdeath",
-	"defaultDuration" : 0.1,
-	"label" : "Cheated Death - Healing Prevented",
-	"icon" : "/interface/statuses/cheatdeath.png"
-}

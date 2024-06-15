@@ -1,7 +1,0 @@
-[
-	{
-		"op" : "replace",
-		"path" : "/script",
-		"value" : "/frackinship/scripts/quest/fu_bootship.lua"
-	}
-]

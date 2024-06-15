@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/description",
-    "value":
-         "^cyan;Immune^reset;: Extreme Heat/Cold/Radiation/Poison, Lava, L.Nitro"
-
-  }
-]

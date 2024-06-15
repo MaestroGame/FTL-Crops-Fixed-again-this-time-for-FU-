@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Stone rubble which appears to be debris from an old structure.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
-    }
-]

@@ -1,7 +1,0 @@
-{
-	"name": "bee_carpenter",
-	"category": "bee_carpenter",
-	"type": "body",
-
-	"frames": {	"body": "carpenter.png"	}
-}

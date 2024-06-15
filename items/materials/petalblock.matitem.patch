@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Sweet smelling dark leaves and flowers.\n^green;Extractable^reset;."
-    }
-]

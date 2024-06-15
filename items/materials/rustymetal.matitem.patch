@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Old metal encrusted with rust.\n^green;Extractable^reset;."
-    }
-]

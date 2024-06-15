@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxpenguinjumpsound",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "animationConfig" : "pandorasboxpenguinjumpsound.animation",
-
-  "scripts" : [ "pandorasboxpenguinjumpsound.lua" ]
-}

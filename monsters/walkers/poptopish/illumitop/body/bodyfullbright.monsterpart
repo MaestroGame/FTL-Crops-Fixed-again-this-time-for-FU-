@@ -1,9 +1,0 @@
-{
-  "name" : "illumitop",
-  "category" : "illumitop",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "bodyfullbright" : "illumitopfullbright.png"
-  }
-}

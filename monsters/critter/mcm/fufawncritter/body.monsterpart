@@ -1,9 +1,0 @@
-{
-  "name" : "fufawncritter",
-  "category" : "fufawncritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

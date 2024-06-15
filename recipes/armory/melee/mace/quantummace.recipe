@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "morphiteore", "count" : 4 },
-    { "item" : "graphene", "count" : 14 }
-  ],
-  "output" : { "item" : "quantummace", "count" : 1 },
-"groups" : [ "armory3", "melee", "all" ]
-}

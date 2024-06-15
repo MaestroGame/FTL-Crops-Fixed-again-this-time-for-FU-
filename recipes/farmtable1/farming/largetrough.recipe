@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 10 }
-  ],
-  "output" : { "item" : "largetrough", "count" : 1 },
-  "groups" : [ "craftingfarm", "tools", "farming", "mod" ]
-}

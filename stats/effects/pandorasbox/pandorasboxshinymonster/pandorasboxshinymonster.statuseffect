@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxshinymonster",
-  "effectConfig" : {},
-  "defaultDuration" : 60,
-
-  "scripts" : [
-    "pandorasboxshinymonster.lua"
-  ]
-}

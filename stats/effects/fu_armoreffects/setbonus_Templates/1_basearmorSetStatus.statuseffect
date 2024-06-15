@@ -1,9 +1,0 @@
-{
-  "name" : "1_baseArmorSetbonus",
-  "effectConfig" : {},
-  "defaultDuration" : 120,
-
-  "scripts" : [
-    "1_baseArmorsetbonus.lua"
-  ]
-}

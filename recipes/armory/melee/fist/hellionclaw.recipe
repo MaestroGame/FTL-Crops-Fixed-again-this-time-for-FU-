@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "corefragmentore", "count" : 2 },
-    { "item" : "sharpenedclaw", "count" : 3 },
-    { "item" : "bugshell", "count" : 3 }
-  ],
-  "output" : { "item" : "fuhellclaw", "count" : 1 },
-  "groups" : [ "armory2", "melee", "all" ]
-}

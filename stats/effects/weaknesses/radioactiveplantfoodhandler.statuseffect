@@ -1,8 +1,0 @@
-{
-  "name" : "radioactiveplantfoodhandler",
-  "defaultDuration" : 5,
-
-  "scripts" : [
-    "radioactiveplantfoodhandler.lua"
-  ]
-}

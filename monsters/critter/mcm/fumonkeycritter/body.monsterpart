@@ -1,9 +1,0 @@
-{
-  "name" : "fumonkeycritter",
-  "category" : "fumonkeycritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

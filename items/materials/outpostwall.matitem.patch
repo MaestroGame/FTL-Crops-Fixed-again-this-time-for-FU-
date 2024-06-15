@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Dark concrete specially designed for outposts.\n^orange;Crushable^reset;."
-    }
-]

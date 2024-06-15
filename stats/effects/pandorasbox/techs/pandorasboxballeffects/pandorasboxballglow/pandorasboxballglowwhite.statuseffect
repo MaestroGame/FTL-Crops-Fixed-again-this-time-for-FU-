@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxballglowwhite",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [ ],
-
-  "animationConfig" : "pandorasboxballglowwhite.animation"
-}

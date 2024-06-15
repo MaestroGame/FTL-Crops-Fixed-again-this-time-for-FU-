@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Some naturally smooth ice.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
-    }
-]

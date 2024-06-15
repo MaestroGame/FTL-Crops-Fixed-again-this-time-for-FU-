@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "penumbrastonematerial", "count" : 8 }
-  ],
-  "output" : { "item" : "nightarpenumbradoor", "count" : 1 },
-  "groups" : [ "craftingfurniture2", "decoration", "all" ]
-}

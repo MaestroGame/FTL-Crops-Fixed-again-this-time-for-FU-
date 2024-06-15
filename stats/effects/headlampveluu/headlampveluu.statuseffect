@@ -1,9 +1,0 @@
-{
-  "name" : "headlampveluu",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [
-    "headlampveluu.lua"
-  ]
-}

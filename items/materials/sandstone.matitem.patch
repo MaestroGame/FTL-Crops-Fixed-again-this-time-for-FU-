@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Tough natural sandstone.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
-    }
-]

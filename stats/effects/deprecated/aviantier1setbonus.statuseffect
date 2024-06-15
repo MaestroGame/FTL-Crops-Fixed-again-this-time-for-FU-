@@ -1,7 +1,0 @@
-{
-	"name" : "aviantier1setbonus",
-	"defaultDuration" : 1,
-
-	"scripts":["deprecated.lua"],
-	"scriptDelta": 60
-}

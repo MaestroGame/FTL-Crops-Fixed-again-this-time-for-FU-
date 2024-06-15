@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Bricks made from smoothed sandstone.\n^green;Extractable^reset;."
-    }
-]

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "aetheriumalloy", "count" : 4 },
-    { "item" : "densiniumbar", "count" : 2 }
-  ],
-  "output" : { "item" : "aetheriumpistol", "count" : 1 },
-  "groups" : [ "armory3", "ranged", "all" ]
-}

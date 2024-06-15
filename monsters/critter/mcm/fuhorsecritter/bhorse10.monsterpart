@@ -1,9 +1,0 @@
-{
-  "name" : "bhorse10",
-  "category" : "fuhorsecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "bhorse10.png"
-  }
-}

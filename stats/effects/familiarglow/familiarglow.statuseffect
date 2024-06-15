@@ -1,9 +1,0 @@
-{
-  "name" : "familiarglow",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [],
-
-  "animationConfig" : "familiarglow.animation"
-}

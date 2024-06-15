@@ -1,7 +1,0 @@
-{
-	"name": "bee_cybernetic",
-	"category": "bee_cybernetic",
-	"type": "body",
-
-	"frames": {	"body": "cybernetic.png"	}
-}

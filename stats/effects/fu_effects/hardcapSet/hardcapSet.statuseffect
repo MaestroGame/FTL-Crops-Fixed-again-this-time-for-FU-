@@ -1,9 +1,0 @@
-{
-  "name" : "hardcapSet",
-  "effectConfig" : {},
-  "defaultDuration" : 1,
-
-  "scripts" : [
-    "hardcapSet.lua"
-  ]
-}

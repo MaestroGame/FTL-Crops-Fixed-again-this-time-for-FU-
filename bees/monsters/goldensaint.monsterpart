@@ -1,7 +1,0 @@
-{
-	"name": "bee_goldensaint",
-	"category": "bee_goldensaint",
-	"type": "body",
-
-	"frames": {	"body": "goldensaint.png"	}
-}

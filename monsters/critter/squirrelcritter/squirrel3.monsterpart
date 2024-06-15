@@ -1,9 +1,0 @@
-{
-  "name" : "squirrel3",
-  "category" : "squirrelcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "squirrel3.png"
-  }
-}

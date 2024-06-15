@@ -1,7 +1,0 @@
-{
-	"name" : "elduukharflight",
-	"defaultDuration" : 3,
-	"animationConfig" : "/tech/other/flighttest.animation",
-	"label" : "Elduukhar Flight",
-	"icon" : "/interface/statuses/flutter.png"
-}

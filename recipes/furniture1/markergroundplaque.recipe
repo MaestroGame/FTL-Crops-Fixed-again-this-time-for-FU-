@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "ironbar", "count" : 2 },
-    { "item" : "concretematerial", "count" : 6 }
-  ],
-  "output" : { "item" : "markergroundplaque", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

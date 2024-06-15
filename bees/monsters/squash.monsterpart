@@ -1,7 +1,0 @@
-{
-	"name": "bee_squash",
-	"category": "bee_squash",
-	"type": "body",
-
-	"frames": {	"body": "squash.png"	}
-}

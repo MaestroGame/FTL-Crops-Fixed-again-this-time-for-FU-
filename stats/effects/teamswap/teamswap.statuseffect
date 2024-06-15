@@ -1,8 +1,0 @@
-{
-	"name" : "teamswap",
-	"effectConfig" : {},
-	"defaultDuration" : 15,
-	"scripts" : ["teamswap.lua"],
-	"label" : "Charmed",
-	"scriptDelta": 60
-}

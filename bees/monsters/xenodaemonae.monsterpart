@@ -1,7 +1,0 @@
-{
-	"name": "bee_xenodaemonae",
-	"category": "bee_xenodaemonae",
-	"type": "body",
-
-	"frames": {	"body": "xenodaemonae.png"	}
-}

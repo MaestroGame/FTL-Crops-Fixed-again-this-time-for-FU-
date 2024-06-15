@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "A block made of packed plant matter.\n^green;Extractable^reset;."
-    }
-]

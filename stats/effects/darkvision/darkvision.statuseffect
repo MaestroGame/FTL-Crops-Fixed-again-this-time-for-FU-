@@ -1,7 +1,0 @@
-{
-  "name" : "darkvision",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : ["darkvision.lua"]
-}

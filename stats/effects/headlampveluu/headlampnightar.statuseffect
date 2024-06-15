@@ -1,9 +1,0 @@
-{
-  "name" : "headlampnightar",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [
-    "headlampnightar.lua"
-  ]
-}

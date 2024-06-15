@@ -1,9 +1,0 @@
-{
-  "name" : "heal_energyconvert_1_1-1",
-  "defaultDuration" : 1,
-
-  "scripts" : [
-    "/stats/effects/deprecated/deprecated.lua"
-  ],
-  "scriptDelta" : 5
-}

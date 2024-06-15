@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "ironmace", "count" : 2 },
-    { "item" : "leather", "count" : 1 }
-  ],
-  "output" : { "item" : "ballmace", "count" : 1 },
-  "groups" : [ "armory1", "melee", "all" ]
-}

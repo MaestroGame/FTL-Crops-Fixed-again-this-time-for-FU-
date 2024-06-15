@@ -1,9 +1,0 @@
-{
-  "name" : "fuhugebipedspawner",
-  "category" : "fuhugebipedspawner",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fuhugebipedspawner.png"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "carbonplate", "count" : 20 },
-    { "item" : "tungstenbar", "count" : 20 }
-  ],
-  "output" : { "item" : "shiphatch", "count" : 1 },
-  "groups" : [ "craftingfurniture", "doors", "all" ]
-}

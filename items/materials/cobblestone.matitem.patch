@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Hard cobblestones, smooth to the touch.\n^green;Extractable^reset;, ^orange;Crushable^reset;, ^red;Smeltable^reset;."
-    }
-]

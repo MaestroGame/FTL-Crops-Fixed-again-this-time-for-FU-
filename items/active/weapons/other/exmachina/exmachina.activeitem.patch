@@ -1,6 +1,0 @@
-[
-{"op": "add","path": "/critChance","value": 3},
-{"op": "add","path": "/critBonus","value": 7},
-{"op": "add","path": "/itemTags/-","value": "upgradeableWeapon"},
-{"op": "replace","path": "/tooltipKind","value": "gununique"}
-]

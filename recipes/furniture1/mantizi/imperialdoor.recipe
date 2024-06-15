@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "fudynastwood", "count" : 10 },
-	{ "item" : "goldbar", "count" : 1 }
-  ],
-  "output" : { "item" : "imperialdoor", "count" : 1 },
-  "groups" : [ "craftingfurniture", "doors", "all" ]
-}

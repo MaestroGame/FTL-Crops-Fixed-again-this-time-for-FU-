@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "mutagene1", "count" : 2 },
-    { "item" : "slimegoo", "count" : 4 },
-    { "item" : "endomorphicjelly", "count" : 2 }
-  ],
-  "output" : { "item" : "magnorbslime", "count" : 1 },
-  "groups" : [ "armory2", "misc", "all" ]
-}

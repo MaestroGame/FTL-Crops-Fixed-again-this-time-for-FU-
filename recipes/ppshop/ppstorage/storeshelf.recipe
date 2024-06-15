@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 700 }
-  ],
-  "output" : { "item" : "storeshelf", "count" : 1 },
-  "groups" : [ "ppshop", "ppstorage" ]
-}

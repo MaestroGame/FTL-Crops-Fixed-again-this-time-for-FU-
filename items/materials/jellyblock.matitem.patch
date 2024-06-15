@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "A slimy, bright coloured mass of jelly.\n^green;Extractable^reset;."
-    }
-]

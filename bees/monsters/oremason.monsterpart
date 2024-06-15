@@ -1,7 +1,0 @@
-{
-	"name": "bee_oremason",
-	"category": "bee_oremason",
-	"type": "body",
-
-	"frames": {	"body": "oremason.png"	}
-}

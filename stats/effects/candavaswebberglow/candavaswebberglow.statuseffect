@@ -1,9 +1,0 @@
-{
-  "name" : "candavaswebberglow",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [],
-
-  "animationConfig" : "candavaswebberglow.animation"
-}

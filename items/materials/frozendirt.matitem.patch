@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "This dirt is frozen solid.\n^green;Extractable^reset;."
-    }
-]

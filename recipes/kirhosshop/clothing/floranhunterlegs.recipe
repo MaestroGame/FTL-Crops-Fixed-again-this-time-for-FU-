@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 10 }
-  ],
-  "duration" : 5,
-  "output" : { "item" : "floranhunterlegs", "count" : 1 },
-  "groups" : [ "kirhosshop", "clothes" ]
-}

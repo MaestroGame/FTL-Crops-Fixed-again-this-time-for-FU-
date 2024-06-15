@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "carbonplate", "count" : 3 },
-    { "item" : "titaniumbar", "count" : 2 }
-  ],
-  "output" : { "item" : "platinumpickaxe", "count" : 1 },
-  "groups" : [ "nanofabricator2", "tech", "all" ]
-}

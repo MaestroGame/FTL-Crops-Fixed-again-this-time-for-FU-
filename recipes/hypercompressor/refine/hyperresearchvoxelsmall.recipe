@@ -1,9 +1,0 @@
-{
-  "input" : [{
-    "item" : "researchvoxelsmall",
-    "count" : 1
-  }],
-  "output" : { "item" : "fuscienceresource", "count" : 495 },
-  "groups" : [ "hypercompressor", "pixeldecompress" ],
-  "duration" : 0
-}

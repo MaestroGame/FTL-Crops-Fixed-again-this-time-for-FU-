@@ -1,8 +1,0 @@
-{
-    "input" : [
-        { "item" : "goldbar", "count" : 5 },
-        { "item" : "paper", "count" : 50 }
-    ],
-    "output" : { "item" : "fugoldmedievalglobe", "count" : 1 },
-    "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

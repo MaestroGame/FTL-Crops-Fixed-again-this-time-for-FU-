@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 12000 }
-  ],
-  "output" : { "item" : "ppboxboreal", "count" : 1 },
-  "groups" : [ "ppshop", "ppbundles" ]
-}

@@ -1,7 +1,0 @@
-{
-	"name": "bee_crystalwing",
-	"category": "bee_crystalwing",
-	"type": "body",
-
-	"frames": {	"body": "crystalwing.png"	}
-}

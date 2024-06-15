@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Bricks carved from shadowy rock.\n^green;Extractable^reset;."
-    }
-]

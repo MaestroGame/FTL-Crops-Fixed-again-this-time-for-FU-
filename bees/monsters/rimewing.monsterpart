@@ -1,7 +1,0 @@
-{
-	"name": "bee_rimewing",
-	"category": "bee_rimewing",
-	"type": "body",
-
-	"frames": {	"body": "rimewing.png"	}
-}

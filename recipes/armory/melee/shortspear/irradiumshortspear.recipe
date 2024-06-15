@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "irradiumbar", "count" : 3 },
-    { "item" : "durasteelbar", "count" : 3 }
-  ],
-  "output" : { "item" : "irradiumshortspear", "count" : 1 },
-  "groups" : [ "armory3", "melee", "all" ]
-}

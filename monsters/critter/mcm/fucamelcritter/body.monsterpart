@@ -1,9 +1,0 @@
-{
-  "name" : "fucamelcritter",
-  "category" : "fucamelcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

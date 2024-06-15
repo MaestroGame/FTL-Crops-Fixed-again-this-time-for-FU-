@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Rough, unrefined stone.\n^green;Extractable^reset;."
-    }
-]

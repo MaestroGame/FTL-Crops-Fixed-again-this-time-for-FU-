@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "obsidian", "count" : 20 },
-	{ "item" : "penumbradirtmaterial", "count" : 30 }
-  ],
-  "output" : { "item" : "shadowcabinet", "count" : 1 },
-  "groups" : [ "craftingfurniture", "storage", "all" ]
-}

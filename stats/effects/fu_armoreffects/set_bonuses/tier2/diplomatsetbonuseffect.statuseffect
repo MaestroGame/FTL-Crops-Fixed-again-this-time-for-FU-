@@ -1,6 +1,0 @@
-{
-	"name" : "diplomatsetbonuseffect",
-	"defaultDuration" : 15,
-	"scripts":["diplomatsetbonuseffect.lua"],
-	"scriptDelta": 60
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "ffextremeradiationresist",
-  "effectConfig" : {},
-  "defaultDuration" : 120,
-
-  "scripts" : [
-    "deprecated.lua"
-  ]
-}

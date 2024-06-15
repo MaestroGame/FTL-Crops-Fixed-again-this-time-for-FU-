@@ -1,7 +1,0 @@
-{
-	"name": "bee_harlequin",
-	"category": "bee_harlequin",
-	"type": "body",
-
-	"frames": {	"body": "harlequin.png"	}
-}

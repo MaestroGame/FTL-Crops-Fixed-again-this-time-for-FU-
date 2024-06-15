@@ -1,9 +1,0 @@
-{
-  "name" : "futinycockroach",
-  "category" : "futinycockroach",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "futinycockroach.png"
-  }
-}

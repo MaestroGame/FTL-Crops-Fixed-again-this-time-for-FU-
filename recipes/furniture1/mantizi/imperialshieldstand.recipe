@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "fudynastwood", "count" : 10 },
-	{ "item" : "goldbar", "count" : 5 }
-  ],
-  "output" : { "item" : "imperialshieldstand", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

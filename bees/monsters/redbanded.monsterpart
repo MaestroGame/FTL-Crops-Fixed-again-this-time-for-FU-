@@ -1,7 +1,0 @@
-{
-	"name": "bee_redbanded",
-	"category": "bee_redbanded",
-	"type": "body",
-
-	"frames": {	"body": "redbanded.png"	}
-}

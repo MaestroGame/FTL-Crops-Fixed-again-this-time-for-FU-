@@ -1,7 +1,0 @@
-[
- {
-  "op": "replace",
-  "path": "/description",
-  "value": "An EPP module that grants +^green;2^reset; Defense and a soft light."
- }
-]

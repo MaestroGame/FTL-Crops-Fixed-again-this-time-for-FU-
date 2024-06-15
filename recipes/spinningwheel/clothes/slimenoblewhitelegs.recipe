@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "silkfibre", "count" : 4 }
-  ],
-
-  "output" : { "item" : "slimenoblewhitelegs", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes" ]
-}

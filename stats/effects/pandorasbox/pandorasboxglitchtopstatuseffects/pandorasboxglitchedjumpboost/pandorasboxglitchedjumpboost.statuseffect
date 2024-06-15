@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxglitchedjumpboost",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [
-    "pandorasboxglitchedjumpboost.lua"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-	"name": "bee_gelidburrower",
-	"category": "bee_gelidburrower",
-	"type": "body",
-
-	"frames": {	"body": "gelidburrower.png"	}
-}

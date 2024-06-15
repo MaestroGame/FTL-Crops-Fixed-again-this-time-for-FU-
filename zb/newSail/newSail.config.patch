@@ -1,7 +1,0 @@
-[
-	{
-		"op" : "add",
-		"path" : "/scripts/-",
-		"value" : "/zb/newSail/fs_newSailScriptOverrides.lua"
-	}
-]

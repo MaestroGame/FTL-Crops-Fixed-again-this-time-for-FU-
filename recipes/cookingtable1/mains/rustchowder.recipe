@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "automato", "count" : 1 },
-    { "item" : "ironore", "count" : 2 }
-  ],
-  "output" : { "item" : "rustchowder", "count" : 3 },
-  "groups" : [ "craftingfood", "mains" ]
-}

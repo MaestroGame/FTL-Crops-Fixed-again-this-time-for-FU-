@@ -1,3 +1,0 @@
-[
-	{ "op": "replace", "path": "/ability/powerProjectileTime", "value": [0.9, 1.4] }
-]

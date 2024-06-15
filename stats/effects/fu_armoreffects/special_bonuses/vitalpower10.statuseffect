@@ -1,9 +1,0 @@
-{
-  "name" : "vitalpower10",
-  "effectConfig" : {"conversionPercent":0.1},
-  "defaultDuration" : 0.1,
-
-  "scripts" : [
-    "vitalpower.lua"
-  ]
-}

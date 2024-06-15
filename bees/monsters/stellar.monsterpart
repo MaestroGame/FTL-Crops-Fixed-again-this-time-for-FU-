@@ -1,7 +1,0 @@
-{
-	"name": "bee_stellar",
-	"category": "bee_stellar",
-	"type": "body",
-
-	"frames": {	"body": "stellar.png"	}
-}

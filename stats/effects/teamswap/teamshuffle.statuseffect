@@ -1,8 +1,0 @@
-{
-	"name" : "teamshuffle",
-	"effectConfig" : {},
-	"defaultDuration" : 15,
-	"scripts" : ["teamshuffle.lua"],
-	"label" : "Deranged",
-	"scriptDelta": 60
-}

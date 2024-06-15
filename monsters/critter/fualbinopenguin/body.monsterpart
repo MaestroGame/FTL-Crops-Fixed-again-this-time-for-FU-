@@ -1,9 +1,0 @@
-{
-  "name" : "albinopenguin",
-  "category" : "albinopenguin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

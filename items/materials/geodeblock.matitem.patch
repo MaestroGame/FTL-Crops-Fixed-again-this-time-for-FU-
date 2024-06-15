@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Glimmering natural geode crystals.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
-    }
-]

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "advancealloy", "count" : 3 },
-    { "item" : "triangliumpyramid", "count" : 1 }
-  ],
-  "output" : { "item" : "advalloyshortspear", "count" : 1 },
-  "groups" : [ "armory3", "melee", "all" ]
-}

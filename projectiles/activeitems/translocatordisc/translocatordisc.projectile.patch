@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/speed",
-    "value": 55
-  }
-]

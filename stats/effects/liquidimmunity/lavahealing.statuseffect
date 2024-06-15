@@ -1,9 +1,0 @@
-{
-  "name" : "lavahealing",
-  "effectConfig" : {},
-  "defaultDuration" : 1,
-
-  "scripts" : [
-    "lavahealing.lua"
-  ]
-}

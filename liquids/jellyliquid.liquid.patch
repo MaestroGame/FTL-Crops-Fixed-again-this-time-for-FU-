@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/radiantLight",
-    "value": [33, 81, 66]
-  }
-]

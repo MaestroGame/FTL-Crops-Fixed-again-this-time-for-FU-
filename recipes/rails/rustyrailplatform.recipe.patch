@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/input/1/item",
-    "value": "electromagnet"
-  }
-]

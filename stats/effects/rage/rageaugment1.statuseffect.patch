@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/effectConfig/powerModifier",
-    "value": 1.05
-  }
-]

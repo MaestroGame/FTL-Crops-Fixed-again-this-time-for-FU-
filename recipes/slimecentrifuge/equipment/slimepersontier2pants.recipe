@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "slimegem", "count" : 4 },
-    { "item" : "slimepersontier1pants", "count" : 1 }
-  ],
-  "duration" : 3,
-  "output" : { "item" : "slimepersontier2pants", "count" : 1 },
-  "groups" : [ "slimecentrifuge", "equipment", "all" ]
-}

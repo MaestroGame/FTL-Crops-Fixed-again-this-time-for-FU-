@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "obsidian", "count" : 15 },
-	{ "item" : "penumbradirtmaterial", "count" : 15 },
-	{ "item" : "darklightblossom", "count" : 5 }
-  ],
-  "output" : { "item" : "shadowflowers", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

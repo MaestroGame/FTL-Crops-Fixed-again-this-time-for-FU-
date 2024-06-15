@@ -1,8 +1,0 @@
-{
- "input" : [
-  { "item" : "effigiumbar", "count" : 5 },
-  { "item" : "refinedviolium", "count" : 3 }
- ],
- "output" : { "item" : "effigiumrapier", "count" : 1},
- "groups" : [ "armory3", "melee", "all" ]
-}

@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "This rock is glowing with bioluminescence.\n^green;Extractable^reset;, ^orange;Crushable^reset;."
-    }
-]

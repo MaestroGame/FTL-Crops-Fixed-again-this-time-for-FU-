@@ -1,7 +1,0 @@
-{
-	"name": "bee_inventor",
-	"category": "bee_inventor",
-	"type": "body",
-
-	"frames": {	"body": "inventor.png"	}
-}

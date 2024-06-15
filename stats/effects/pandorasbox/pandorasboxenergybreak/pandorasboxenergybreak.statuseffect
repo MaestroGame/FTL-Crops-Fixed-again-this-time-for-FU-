@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxenergybreak",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [
-    "pandorasboxenergybreak.lua"
-  ]
-}

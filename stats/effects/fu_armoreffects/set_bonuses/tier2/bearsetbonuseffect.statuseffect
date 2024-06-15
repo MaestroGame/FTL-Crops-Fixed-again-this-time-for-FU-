@@ -1,6 +1,0 @@
-{
-	"name" : "bearsetbonuseffect",
-	"defaultDuration" : 15,
-	"scripts":["bearsetbonuseffect.lua"],
-	"scriptDelta": 60
-}

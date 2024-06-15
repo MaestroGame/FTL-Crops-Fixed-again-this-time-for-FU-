@@ -1,8 +1,0 @@
-{
-  "name" : "indixfoodhandler",
-  "defaultDuration" : 120,
-
-  "scripts" : [
-    "indixfoodhandler.lua"
-  ]
-}

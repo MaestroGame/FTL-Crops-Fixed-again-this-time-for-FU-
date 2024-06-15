@@ -1,9 +1,0 @@
-{
-  "name" : "fupterosaurcritter",
-  "category" : "fupterosaurcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

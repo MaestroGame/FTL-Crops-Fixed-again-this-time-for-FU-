@@ -1,9 +1,0 @@
-{
-    "itemName": "precursorgirder",
-    "category": "block",
-    "rarity": "rare",
-    "inventoryIcon": "precursorgirder.png",
-    "description": "Girder made of ancient materials.\n^green;Extractable^reset;.",
-    "shortdescription": "Precursor Bright Girder",
-    "materialId": 6769
-}

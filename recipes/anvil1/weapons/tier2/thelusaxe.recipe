@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "bugshell", "count" : 2 },
-    { "item" : "fuamberchunk", "count" : 3 },
-    { "item" : "ironbar", "count" : 1 }
-  ],
-  "output" : { "item" : "thelusaxe", "count" : 1 },
-  "groups" : [ "craftinganvil", "weapons", "all","armory1","melee" ]
-}

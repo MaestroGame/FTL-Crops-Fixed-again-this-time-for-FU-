@@ -1,6 +1,0 @@
-{
-	"name" : "blistersetbonuseffect",
-	"defaultDuration" : 15,
-	"scripts":["blistersetbonuseffect.lua"],
-	"scriptDelta": 60
-}

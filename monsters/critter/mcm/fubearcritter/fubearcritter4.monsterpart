@@ -1,9 +1,0 @@
-{
-  "name" : "fubearcritter4",
-  "category" : "fubearcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fubearcritter4.png"
-  }
-}

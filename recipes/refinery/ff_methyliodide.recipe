@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "methyliodide", "count" : 1 }
-  ],
-  "output" : { "item" : "money", "count" : 44 },
-  "groups" : [ "refinery" ]
-}

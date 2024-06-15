@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Sticky hive combs made from the remains of fallen creatures.\n^green;Extractable^reset;."
-    }
-]

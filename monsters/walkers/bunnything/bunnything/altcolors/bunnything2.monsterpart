@@ -1,9 +1,0 @@
-{
-  "name" : "bunnything2",
-  "category" : "bunnything",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "bunnything2.png"
-  }
-}

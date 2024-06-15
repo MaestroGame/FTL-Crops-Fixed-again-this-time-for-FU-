@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "pyreitebar", "count" : 1 }
-  ],
-  "output" : { "item" : "peglacitier9knife", "count" : 4 },
-  "groups" : [ "armory3", "misc", "all" ]
-}

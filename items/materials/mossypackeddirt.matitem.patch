@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Packed dirt, covered in moss.\n^green;Extractable^reset;."
-    }
-]

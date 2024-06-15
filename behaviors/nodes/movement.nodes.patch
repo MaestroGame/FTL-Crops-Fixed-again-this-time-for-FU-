@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/flyToPosition/properties/position/value",
-    "value": "target"
-  }
-]

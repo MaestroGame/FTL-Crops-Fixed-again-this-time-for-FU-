@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "zerchesiumbar", "count" : 4 },
-    { "item" : "corefragmentore", "count" : 1 }
-  ],
-  "output" : { "item" : "zerchesiumfist", "count" : 1 },
-  "groups" : [ "armory3", "melee",  "all" ]
-}

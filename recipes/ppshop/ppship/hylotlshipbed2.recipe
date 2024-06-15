@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 500 }
-  ],
-  "output" : { "item" : "hylotlshipbed2", "count" : 1 },
-  "groups" : [ "ppshop", "ppship" ]
-}

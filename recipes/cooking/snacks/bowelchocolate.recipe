@@ -1,9 +1,0 @@
-{
-    "input" : [
-      { "item" : "poop", "count" : 2 },
-      { "item" : "fubutter", "count" : 2 },
-      { "item" : "sugar", "count" : 1 }
-    ],
-    "output" : { "item" : "bowelchocolate", "count" : 1 },
-    "groups" : [ "craftingfood", "snacks" ]
-  }

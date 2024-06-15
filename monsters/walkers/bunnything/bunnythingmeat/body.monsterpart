@@ -1,9 +1,0 @@
-{
-  "name" : "bunnythingmeat",
-  "category" : "bunnythingmeat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "bunnythingmeat.png"
-  }
-}

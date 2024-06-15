@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 300 }
-  ],
-  "output" : { "item" : "reedpot", "count" : 1 },
-  "groups" : [ "ppshop", "ppflowerpots" ]
-}

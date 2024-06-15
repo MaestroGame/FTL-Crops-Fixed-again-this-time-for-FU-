@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxglitchedbouncy",
-  "effectConfig" : {},
-  "defaultDuration" : 5.0,
-
-  "scripts" : [
-    "pandorasboxglitchedbouncy.lua"
-  ]
-}

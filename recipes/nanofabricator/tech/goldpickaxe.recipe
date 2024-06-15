@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "goldbar", "count" : 3 },
-    { "item" : "darkwoodmaterial", "count" : 2 }
-  ],
-  "output" : { "item" : "goldpickaxe", "count" : 1 },
-  "groups" : [ "nanofabricator2", "tech", "all" ]
-}

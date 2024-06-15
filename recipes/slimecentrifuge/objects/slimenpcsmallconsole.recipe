@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "greenslime", "count" : 2 },
-    { "item" : "wire", "count" : 5 }
-  ],
-  "output" : { "item" : "slimenpcsmallconsole", "count" : 1 },
-  "groups" : [ "slimecentrifuge", "objects" ]
-}

@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "Wiring hides beneath this reinforced hi-tech plated material.\n^green;Extractable^reset;."
-    }
-]

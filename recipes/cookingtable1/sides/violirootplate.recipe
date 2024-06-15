@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "violiroot", "count" : 3 }
-  ],
-  "output" : { "item" : "violirootplate", "count" : 1 },
-  "groups" : [ "craftingfood", "sides" ]
-  //"collectables" : { "cooking" : "violirootplate" }
-}

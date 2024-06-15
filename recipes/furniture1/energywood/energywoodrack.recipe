@@ -1,8 +1,0 @@
-{
-    "input" : [
-        { "item" : "energywood", "count" : 5 },
-        { "item" : "ironbar", "count" : 1 }
-    ],
-    "output" : { "item" : "energywoodrack", "count" : 1 },
-    "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

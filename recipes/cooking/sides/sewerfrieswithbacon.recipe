@@ -1,9 +1,0 @@
-{
-    "input" : [
-      { "item" : "rawbacon", "count" : 1 },
-      { "item" : "sewage", "count" : 1 },
-      { "item" : "potato", "count" : 2 }
-    ],
-    "output" : { "item" : "sewerfrieswithbacon", "count" : 1 },
-    "groups" : [ "craftingfood", "sides" ]
-  }

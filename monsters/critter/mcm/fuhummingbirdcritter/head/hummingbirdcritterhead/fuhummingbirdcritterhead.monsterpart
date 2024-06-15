@@ -1,9 +1,0 @@
-{
-  "name" : "fuhummingbirdcritter",
-  "category" : "fuhummingbirdcritter_parts",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "fuhummingbirdcritterhead.png"
-  }
-}

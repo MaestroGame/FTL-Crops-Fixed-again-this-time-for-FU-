@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "obsidian", "count" : 5 },
-    { "item" : "penumbriteshard", "count" : 1 }
-  ],
-  "output" : { "item" : "nightarmedievaldesk", "count" : 1 },
-  "groups" : [ "craftingfurniture2", "storage", "all" ]
-}

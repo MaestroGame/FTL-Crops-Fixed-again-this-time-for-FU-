@@ -1,7 +1,0 @@
-{
-	"name": "bee_honey",
-	"category": "bee_honey",
-	"type": "body",
-
-	"frames": {	"body": "honey.png"	}
-}

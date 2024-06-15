@@ -1,9 +1,0 @@
-{
-  "name" : "fudesertdactylcritter",
-  "category" : "fudesertdactylcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

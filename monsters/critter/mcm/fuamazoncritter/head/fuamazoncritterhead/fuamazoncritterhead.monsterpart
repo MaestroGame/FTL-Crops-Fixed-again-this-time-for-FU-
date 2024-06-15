@@ -1,9 +1,0 @@
-{
-  "name" : "fuamazoncritter",
-  "category" : "fuamazoncritter_parts",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "fuamazoncritterhead.png"
-  }
-}

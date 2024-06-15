@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxglitchtopweakfire",
-  "category" : "pandorasboxglitchtop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxglitchtop.png"
-  }
-}

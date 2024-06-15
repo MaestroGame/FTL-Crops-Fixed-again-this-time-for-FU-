@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "isogenbar", "count" : 1 }
-  ],
-  "output" : { "item" : "money", "count" : 32 },
-  "groups" : [ "refinery" ]
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxglitchtopweakelectricityalt1",
-  "category" : "pandorasboxglitchtop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxglitchtopalt1.png"
-  }
-}

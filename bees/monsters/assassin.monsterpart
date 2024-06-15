@@ -1,7 +1,0 @@
-{
-	"name": "bee_assassin",
-	"category": "bee_assassin",
-	"type": "body",
-
-	"frames": {	"body": "assassin.png"	}
-}
