@@ -1,12 +1,12 @@
 ## FTL Crops (Fixed(Again))
 
-#### Credit goes to Avatar Innuendo for their original mod - [FTL Crops](https://pages.github.com/).
+#### Credit goes to Avatar Innuendo for their original mod - [FTL Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=910447187&searchtext=FTL+Crops).
 ----
 ### Usage and precautions!
 * It's probably fine to use this mod with other vanila FTL Crops versions, but since they are weird and I don't understand why they were done like this - do not push your luck. It won't crush your game, crops just won't grow as fast, as it's coded here.
 * FTL Crops specifically designed for different mods are probably fine, but you wouldn't know without unpacking their content.pak file, and i didn't bother cheking them out.
 ----
-The previous modder of [FTL Crops (Fixed)](https://steamcommunity.com/sharedfiles/filedetails/?id=910447187) said that they were "*in the process of adding FU plants in (it's taking a while, lol, so many plants)*". 
+The previous modder of [FTL Crops (Fixed)](https://steamcommunity.com/sharedfiles/filedetails/?id=2458473722&searchtext=FTL+Crops) said that they were "*in the process of adding FU plants in (it's taking a while, lol, so many plants)*". 
 
 It has been three years now since that, and, seeing the fact that even the base plants weren't implemented correctly (or something else went horribly wrong), I went ahead and fixed FU and vanilla crops myself in one sitting.
 
